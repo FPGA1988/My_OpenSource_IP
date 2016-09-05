@@ -1,9 +1,18 @@
 
 # 项目说明
   使用Verilog HDL编写的UDP/IP协议栈.
+  
+----
+
 # 更新历史
   yyyy-mm-dd Author Detail
-  2016-09-05 Roger Wang 添加项目readme说明以及相关的ip引用、授权等信息
+  2016-09-05 离场悲剧 将smic18的cell define文件check-in.  
+  2016-09-05 离场悲剧 因为smic18的libhedb太大了，所以先把trunk下面的其他文件先commit到git
+  2016-09-05 离场悲剧 添加项目readme说明以及相关的ip引用、授权等信息
+
+  
+  
+  
 ----
 
 # License Information
