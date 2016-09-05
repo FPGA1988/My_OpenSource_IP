@@ -8,7 +8,8 @@
 
   yyyy-mm-dd Author Detail
   
-  2016-09-05 离场悲剧-将smic18的cell define文件check-in
+  
+  2016-09-05 离场悲剧-添加readme文件避免空文件夹，将smic18的cell define文件check-in，由于lib和db太大暂时未上传
   
   2016-09-05 离场悲剧-因为smic18的libhedb太大了，所以先把trunk下面的其他文件先commit到git
   
